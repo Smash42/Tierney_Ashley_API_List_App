@@ -30,7 +30,7 @@ export default function Index() {
 
   return (
     <View className="flex-1 justify-center bg-slate-300">
-      <Text className="text-4xl text-center text-emerald-800">
+      <Text className="text-4xl text-center text-emerald-800 mt-20">
         Tierney's API List App
       </Text>
       <Text className="text-2xl font-bold underline pl-5 mt-5">
